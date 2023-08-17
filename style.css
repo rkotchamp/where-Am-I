@@ -51,7 +51,7 @@ body {
 }
 
 .country {
-  width: 200px;
+  width: 250px;
   height: 500px;
   /* background-color: #133a1b; */
   background-color: #b7bf96;
@@ -59,7 +59,7 @@ body {
   box-shadow: 0 0 50px #000000;
 }
 .country img {
-  width: 200px;
+  width: 250px;
   height: 100px;
   border-radius: 20px 20px 0px 0px;
 }
